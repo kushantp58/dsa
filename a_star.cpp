@@ -1,3 +1,4 @@
+// A star search implemented from scratch
 #include <algorithm>  // for sort
 #include <fstream>
 #include <iostream>
